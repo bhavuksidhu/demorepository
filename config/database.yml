@@ -1,0 +1,9 @@
+development:
+  adapter: postgresql
+  encoding: utf8
+  database: demo
+  username: postgres
+  password: password
+  host: localhost
+  pool: 2
+  timeout: 5000
